@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a secret project**
 
-- 🌱 I’m currently learning **VueJS,Typescript,JAMStack**
+- 🌱 I’m currently learning **JAMStack,REACT NATIVE**
 
 - 👯 I’m looking to collaborate on **projects that require full stack developers!**
 
