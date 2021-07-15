@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **full stack projects**
 
-- 💬 Ask me about **MERN stack**
+- 💬 Ask me about **MERN stack and front end !**
 
 - 📫 How to reach me **alex.anthopoulos01@gmail.com**
 
