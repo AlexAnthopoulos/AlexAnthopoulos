@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **secret project**
 
-- 🌱 I’m currently learning **PHP,Rust**
+- 🌱 I’m currently learning **Rust and few other awesome languages**
 
 - 👯 I’m looking to collaborate on **full stack projects**
 
 - 💬 Ask me about **MERN stack and front end !**
 
-- 📫 How to reach me **alex.anthopoulos01@gmail.com**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
